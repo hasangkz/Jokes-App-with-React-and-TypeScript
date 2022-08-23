@@ -3,7 +3,7 @@
 I developed an application that shows you jokes based on the word you are looking for.
 
 ## App Images
-![img]https://i.hizliresim.com/mqdie62.png?raw=true "Title")
+![img](https://i.hizliresim.com/mqdie62.png?raw=true "Title")
 
 ![img](https://i.hizliresim.com/728c0pb.png?raw=true "Title")
 
